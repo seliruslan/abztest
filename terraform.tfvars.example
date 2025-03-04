@@ -1,0 +1,4 @@
+db_username      = "db_username"
+db_password      = "db_password"
+public_key_path  = "public_key_path"
+private_key_path = "private_key_path"
